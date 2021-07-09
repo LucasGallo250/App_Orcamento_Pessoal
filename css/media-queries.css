@@ -1,17 +1,8 @@
-@media (min-width: 768px) {
-    thead{
-        font-size: 1rem;
-    }
-    tbody{
-        font-size: 1rem;
-    }
-    .btn_exc{
-        padding: .300rem .65rem;
+@media (max-width: 575.98px) {
+    h1 {
+        font-size:1.8em;
     }
     
-}
-
-@media (max-width: 500.98px) {
     option{
         font-size: 0.9rem;
     }
