@@ -6,7 +6,7 @@
 
 >Essa é uma pequena aplicação web onde o usuário pode registrar suas despesas, consultá-las e excluí-las quando quiser, o que consequentemente o ajudará a organizar melhor sua vida financeira.
 
-Para acessar o site [clique aqui](#).
+Para acessar o site [clique aqui](https://lucasgallo250.github.io/App_Orcamento_Pessoal/).
 
 ### 🛠 Tecnologias
 
