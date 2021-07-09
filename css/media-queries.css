@@ -1,0 +1,54 @@
+@media (min-width: 768px) {
+    thead{
+        font-size: 1rem;
+    }
+    tbody{
+        font-size: 1rem;
+    }
+    .btn_exc{
+        padding: .300rem .65rem;
+    }
+    
+}
+
+@media (max-width: 500.98px) {
+    option{
+        font-size: 0.9rem;
+    }
+
+    thead{
+        font-size: 0.8rem;
+    }
+    tbody{
+        font-size: 0.7rem;
+    }
+    .btn_exc{
+        padding: .200rem .45rem;
+    }
+    
+    .table td, .table th {
+        padding: .30rem;
+    }
+
+}
+
+@media (max-width: 410.98px) {
+    option{
+        font-size: 0.7rem;
+    }
+
+    thead{
+        font-size: 0.7rem;
+    }
+    tbody{
+        font-size: 0.6rem;
+    }
+    .btn_exc{
+        padding: .100rem .25rem;
+    }
+
+    .table td, .table th {
+        padding: .10rem;
+    }
+
+}
